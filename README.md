@@ -17,6 +17,4 @@ def f(x):
 ```
 
 #Avtorji
-1. Matija Zupan
-2. France Prešern
-3. Abraham Lincoln
+:)
