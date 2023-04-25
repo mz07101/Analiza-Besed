@@ -17,5 +17,5 @@ def f(x):
 ```
 
 #Avtorji
-1. Matija Zupan
-4. franc jozef
+(:
+123
