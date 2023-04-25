@@ -23,3 +23,6 @@ def relativne_frekvence(besede):
 
 vse_besede = nalozi_besede()
 relativne_frekvence(vse_besede)
+
+def dodatno():
+    print(dodatno)
